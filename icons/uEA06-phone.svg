@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="art-board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_page_@front" transform="translate(-315.000000, -109.000000)" fill="#000000">
+            <g id="header-fixed-top">
+                <g id="support_phone" transform="translate(315.000000, 109.000000)">
+                    <g id="phone">
+                        <path d="M2,14 L10,14 L10,2 L2,2 L2,14 Z M2,0 L10,0 C11.105,0 12,0.896 12,2 L12,14 C12,15.104 11.105,16 10,16 L2,16 C0.896,16 0,15.104 0,14 L0,2 C0,0.896 0.896,0 2,0 Z" id="Fill-1"></path>
+                        <path d="M6,12 C6.552,12 7,11.553 7,11 C7,10.448 6.552,10 6,10 C5.448,10 5,10.448 5,11 C5,11.553 5.448,12 6,12" id="Fill-3"></path>
+                        <path d="M14,6.71359317 C15.1270081,7.70060112 15.1270081,9.29939888 14,10.2864068 L14.8161472,11 C16.3946176,9.61935234 16.3946176,7.37967811 14.8161472,6 L14,6.71359317 Z" id="Fill-4"></path>
+                        <path d="M16.8123178,3 L16,3.76939138 C18.4675656,6.10575217 18.4675656,9.89424783 16,12.2306086 L16.8123178,13 C19.7292274,10.2387514 19.7292274,5.76229251 16.8123178,3" id="Fill-5"></path>
+                        <path d="M18.8102508,1 L18,1.736 C21.8047983,5.195 21.8047983,10.804 18,14.264 L18.8102508,15 C23.0632497,11.134 23.0632497,4.866 18.8102508,1" id="Fill-6"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

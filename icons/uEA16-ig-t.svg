@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="art-board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_page_@front" transform="translate(-814.000000, -4179.000000)" fill="#212126">
+            <g id="body" transform="translate(0.000000, 109.000000)">
+                <g id="our_instashop" transform="translate(315.000000, 4070.000000)">
+                    <g id="instagram_icon" transform="translate(499.000000, 0.000000)">
+                        <path d="M28,20 C28,24.418 24.418,28 20,28 L10,28 C5.582,28 2,24.418 2,20 L2,10 C2,5.582 5.582,2 10,2 L20,2 C24.418,2 28,5.582 28,10 L28,20 Z M20,0 L10,0 C4.477,0 0,4.478 0,10 L0,20 C0,25.522 4.477,30 10,30 L20,30 C25.523,30 30,25.522 30,20 L30,10 C30,4.478 25.523,0 20,0 Z" id="Fill-1"></path>
+                        <path d="M15,20 C12.239,20 10,17.762 10,15 C10,12.238 12.239,10 15,10 C17.761,10 20,12.238 20,15 C20,17.762 17.761,20 15,20 M15,8 C11.134,8 8,11.134 8,15 C8,18.866 11.134,22 15,22 C18.866,22 22,18.866 22,15 C22,11.134 18.866,8 15,8" id="Fill-3"></path>
+                        <path d="M22.5,6 C21.671,6 21,6.672 21,7.5 C21,8.328 21.671,9 22.5,9 C23.329,9 24,8.328 24,7.5 C24,6.672 23.329,6 22.5,6" id="Fill-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

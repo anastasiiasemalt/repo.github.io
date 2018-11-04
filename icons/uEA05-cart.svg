@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="14px" viewBox="0 0 13 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>cart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="art-board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_page_@front" transform="translate(-1569.000000, -36.000000)" fill="#212126">
+            <g id="header-fixed-top">
+                <g id="cart" transform="translate(1569.000000, 36.000000)">
+                    <path d="M11,11.6152 C11,11.7972 10.766,12.0002 10.429,12.0002 L2.571,12.0002 C2.234,12.0002 2,11.7972 2,11.6152 L2,5.3852 C2,5.2022 2.234,5.0002 2.571,5.0002 L3,5.0002 L3,7.0002 L4,7.0002 L4,5.0002 L9,5.0002 L9,7.0002 L10,7.0002 L10,5.0002 L10.429,5.0002 C10.766,5.0002 11,5.2022 11,5.3852 L11,11.6152 Z M9,3 L4,3 C4.16930251,1.874 5.21857259,1 6.5,1 C7.78142741,1 8.83069749,1.874 9,3 Z M9.967,3.0002 C9.797,1.3222 8.316,0.0002 6.5,0.0002 C4.684,0.0002 3.203,1.3222 3.033,3.0002 L2.571,3.0002 C1.153,3.0002 0,4.0702 0,5.3852 L0,11.6152 C0,12.9302 1.153,14.0002 2.571,14.0002 L10.429,14.0002 C11.847,14.0002 13,12.9302 13,11.6152 L13,5.3852 C13,4.0702 11.847,3.0002 10.429,3.0002 L9.967,3.0002 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
